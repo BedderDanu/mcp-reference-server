@@ -10,7 +10,7 @@ It follows the generic MCP adapter principles defined in [CLAUDE.md](../../CLAUD
 These operations define the full surface area of the MCP specification for this backend integration.
 
 The MCP server MUST NOT introduce additional methods, rename existing ones, or change their semantics.
-Each method maps directly to a backend API endpoint as described below.
+Each method maps directly to a backend functionality, e.g. API endpoints as described below.
 
 ---
 
